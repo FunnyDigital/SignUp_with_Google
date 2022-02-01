@@ -3,3 +3,5 @@
 update firebase APIs
 
 add SHA Fingerprint and sync with firebase
+
+fully functioning 
